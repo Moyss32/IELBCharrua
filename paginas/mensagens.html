@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <meta charset="UTF-8">
+  <title>Mensagens</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="mensagens.css">
+</head>
+
+<body>
+
+    <header class="cabecalho-barra">
+        <div class="cabecalho-conteiner">
+            <div class="marca-bloco">
+            <div class="marca-logo-circulo"><img src="../imagens/logo-ielb.png" alt="Logo IELB" style="width: 70px; height: 70px;"></div>
+            <div class="marca-textos-grupo">
+                <span class="marca-titulo">IELB Charrua</span>
+                <span class="marca-subtitulo">Igreja Evangélica Luterana</span>
+            </div>
+            </div>
+
+            <nav>
+            <a href="calendario.html" class="navegacao-botao-destaque">
+                Cultos &amp; Atividades
+            </a>
+            <a href="../index.html" class="navegacao-botao-destaque">
+                Página inicial
+            </a>
+            </nav>
+        </div>
+    </header>
+
+<main class="pagina-mensagens">
+
+  <section class="mensagens-topo">
+    <h1>Mensagens</h1>
+
+    <select id="filtro-tipo" class="filtro">
+      <option value="todos">Todas</option>
+      <option value="cinco minutos com jesus">Cinco Minutos com Jesus</option>
+      <option value="cristo é a resposta">Cristo é a Resposta</option>
+      <option value="hora luterana">Hora Luterana</option>
+    </select>
+  </section>
+
+  <div id="lista-audios" class="lista-audios"></div>
+
+</main>
+
+<footer class="rodape-estendido" style="bottom: 0%;">
+    <div class="rodape-superior">
+      <div class="rodape-coluna-marca">
+        <div class="rodape-logo-circulo"><img src="../imagens/logo-ielb.png" alt="Logo IELB" style="width: 70px; height: 70px;"></div>
+        <div class="rodape-grupo-marca">
+          <span class="rodape-titulo-marca">IELB Charrua</span>
+          <p class="rodape-paragrafo-marca">
+            Igreja Evangélica Luterana do Brasil - Congregação Charrua.
+          </p>
+        </div>
+      </div>
+
+      <div class="rodape-coluna-links">
+        <h4 class="rodape-titulo-coluna">Links Úteis</h4>
+        <ul class="rodape-lista">
+          <li><a href="#secao-eventos" class="rodape-link">Eventos</a></li>
+          <li><a href="#secao-contato" class="rodape-link">Mensagens</a></li>
+        </ul>
+      </div>
+
+      <div class="rodape-coluna-redes">
+        <h4 class="rodape-titulo-coluna">Redes Sociais</h4>
+        <div class="rodape-linha-redes">
+          <a href="#" class="rodape-icone-rede"><i class="icone-branco fa-brands fa-facebook"></i></a>
+          <a href="#" class="rodape-icone-rede"><i class="icone-branco fa-brands fa-instagram"></i></a>
+          <a href="#" class="rodape-icone-rede">▶</a>
+        </div>
+      </div>
+    </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Agenda Mensal</title>
+  <link rel="stylesheet" href="calendario.css">
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+     <header class="cabecalho-barra">
+        <div class="cabecalho-conteiner">
+            <div class="marca-bloco">
+            <div class="marca-logo-circulo"><img src="../imagens/logo-ielb.png" alt="Logo IELB" style="width: 70px; height: 70px;"></div>
+            <div class="marca-textos-grupo">
+                <span class="marca-titulo">IELB Charrua</span>
+                <span class="marca-subtitulo">Igreja Evangélica Luterana</span>
+            </div>
+            </div>
+
+            <nav>
+            <a href="mensagens.html" class="navegacao-botao-destaque">
+                Mensagens &amp; Sermões
+            </a>
+            <a href="../index.html" class="navegacao-botao-destaque">
+                Página inicial
+            </a>
+            </nav>
+        </div>
+    </header>
+
+
+
+<section>
+  <select id="mesSelect">
+    <option value="0">Janeiro</option>
+    <option value="1">Fevereiro</option>
+    <option value="2">Março</option>
+    <option value="3">Abril</option>
+    <option value="4">Maio</option>
+    <option value="5">Junho</option>
+    <option value="6">Julho</option>
+    <option value="7">Agosto</option>
+    <option value="8">Setembro</option>
+    <option value="9">Outubro</option>
+    <option value="10">Novembro</option>
+    <option value="11">Dezembro</option>
+  </select>
+</section>
+
+<div class="semana">
+  <span>Domingo</span>
+  <span>Segunda</span>
+  <span>Terça</span>
+  <span>Quarta</span>
+  <span>Quinta</span>
+  <span>Sexta</span>
+  <span>Sábado</span>
+</div>
+
+<div id="calendario"></div>
+
+<script src="calendario.js"></script>
+</body>
+</html>
