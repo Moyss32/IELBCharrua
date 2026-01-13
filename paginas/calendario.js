@@ -4,7 +4,7 @@ const mesSelect = document.getElementById("mesSelect");
 let dados = {};
 
 // carrega JSON
-fetch("eventos.json")
+fetch("../data/2026/fevereiro.json")
   .then(r => r.json())
   .then(json => {
     dados = json.eventos;
