@@ -8,6 +8,12 @@ const nomesMeses = [
 ];
 
 // mês inicial
+renderizarMes(1);
+
+mesSelect.addEventListener("change", () => {
+  renderizarMes(Number(mesSelect.value));
+});
+
 function renderizarMes(mes) {
   const caminho = `data/${ano}/${nomesMeses[mes]}.json`;
 
@@ -16,16 +22,13 @@ function renderizarMes(mes) {
       if (!r.ok) throw new Error("sem-json");
       return r.json();
     })
-    .then(json => {
-      // AQUI está a adaptação ao seu formato
-      const eventosMes = json.eventos?.[nomesMeses[mes]] || [];
+    .then(eventosMes => {
       montarCalendario(ano, mes, eventosMes);
     })
     .catch(() => {
       montarCalendario(ano, mes, []);
     });
 }
-
 
 function montarCalendario(ano, mes, eventosMes) {
   calendario.innerHTML = "";
