@@ -4,7 +4,7 @@ const mesSelect = document.getElementById("mesSelect");
 const ano = 2026;
 
 const nomesMeses = [
-  "janeiro","fevereiro","março","abril","maio","junho",
+  "janeiro","fevereiro","marco","abril","maio","junho",
   "julho","agosto","setembro","outubro","novembro","dezembro"
 ];
 
@@ -16,7 +16,7 @@ mesSelect.addEventListener("change", () => {
 });
 
 function renderizarMes(mes) {
-  const caminho = `data/${ano}/${nomesMeses[mes]}.json`;
+  const caminho = `../data/${ano}/${nomesMeses[mes]}.json`;
 
   fetch(caminho)
     .then(r => {
