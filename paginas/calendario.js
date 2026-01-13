@@ -4,7 +4,7 @@ const mesSelect = document.getElementById("mesSelect");
 const ano = 2026;
 
 const nomesMeses = [
-  "fevereiro","marco","abril"
+  "fevereiro"
 ];
 
 // mês inicial
