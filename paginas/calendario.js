@@ -16,7 +16,7 @@ mesSelect.addEventListener("change", () => {
 });
 
 function renderizarMes(mes) {
-  const caminho = `../data/${ano}/${nomesMeses[mes]}.json`;
+  const caminho = `data/${ano}/${nomesMeses[mes]}.json`;
 
   fetch(caminho)
     .then(r => {
