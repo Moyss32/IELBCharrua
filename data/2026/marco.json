@@ -1,0 +1,223 @@
+{
+  "eventos": {
+    "marco": [
+      {
+        "dia": "2026/03/01",
+        "eventos": "Culto; Culto",
+        "localizacao": "Lig. Alto; Lª Betânia",
+        "hora": "9:30h; 14:30h",
+        "especial": "Dom Transfiguração"
+      },
+      {
+        "dia": "2026/03/02",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/03",
+        "eventos": "Estudo Bíblico Tapejara",
+        "localizacao": "Tapejara",
+        "hora": "19:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/04",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/05",
+        "eventos": "Encontro DN e Diretorias",
+        "localizacao": "NULL",
+        "hora": "19:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/06",
+        "eventos": "Instr.Charrua",
+        "localizacao": "Charrua",
+        "hora": "18:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/07",
+        "eventos": "Culto; Culto",
+        "localizacao": "Charrua; Sananduva",
+        "hora": "14:00h; 19:00h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/08",
+        "eventos": "Encontro Fam. Pastorais – Charrua",
+        "localizacao": "Charrua",
+        "hora": "16:00h",
+        "especial": "1º Dom Quaresma; Dia da Mulher"
+      },
+      {
+        "dia": "2026/03/09",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/10",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/11",
+        "eventos": "Servas Charrua",
+        "localizacao": "Charrua",
+        "hora": "14:00h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/12",
+        "eventos": "Instr.Tapejara",
+        "localizacao": "Tapejara",
+        "hora": "18:00h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/13",
+        "eventos": "Instr.Charrua",
+        "localizacao": "Charrua",
+        "hora": "18:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/14",
+        "eventos": "Estudo Bíblico; Culto Tapejara",
+        "localizacao": "Rio do Peixe; Tapejara",
+        "hora": "14:00h; 19:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/15",
+        "eventos": "Culto Charrua; Encontro Prof. Escol Dom - DISRIU",
+        "localizacao": "Charrua; NULL",
+        "hora": "9:30h; 14:00h",
+        "especial": "2º Dom Quaresma"
+      },
+      {
+        "dia": "2026/03/16",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/17",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/18",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/19",
+        "eventos": "Instr.Online",
+        "localizacao": "NULL",
+        "hora": "19:00h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/20",
+        "eventos": "Feriado Municipal Charrua",
+        "localizacao": "Charrua",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/21",
+        "eventos": "Estudo Bíblico; Estudo Bíblico",
+        "localizacao": "Lª Betânia; Lig. Alto",
+        "hora": "9:30h; 14:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/22",
+        "eventos": "Culto Tapejara",
+        "localizacao": "Tapejara",
+        "hora": "19:30h",
+        "especial": "3º Dom Quaresma"
+      },
+      {
+        "dia": "2026/03/23",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/24",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/25",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/26",
+        "eventos": "Instr.Tapejara",
+        "localizacao": "Tapejara",
+        "hora": "18:00h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/27",
+        "eventos": "Instr.Charrua",
+        "localizacao": "Charrua",
+        "hora": "18:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/28",
+        "eventos": "Culto; Culto",
+        "localizacao": "Rio do Peixe; Charrua",
+        "hora": "14:00h; 19:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/29",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "4º Dom Quaresma"
+      },
+      {
+        "dia": "2026/03/30",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/03/31",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      }
+    ]
+  }
+}

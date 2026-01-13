@@ -1,0 +1,216 @@
+{
+  "eventos": {
+    "abril": [
+      {
+        "dia": "2026/04/01",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/02",
+        "eventos": "Culto Páscoa",
+        "localizacao": "Sananduva",
+        "hora": "19:00h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/03",
+        "eventos": "Culto Páscoa; Culto Páscoa",
+        "localizacao": "Rio do Peixe; Tapejara",
+        "hora": "14:00h; 19:00h",
+        "especial": "Sexta-feira Santa"
+      },
+      {
+        "dia": "2026/04/04",
+        "eventos": "Culto Páscoa; Culto Páscoa",
+        "localizacao": "Lª Betânia; Lig. Alto",
+        "hora": "9:30h; 14:30h",
+        "especial": "Sábado de Aleluia"
+      },
+      {
+        "dia": "2026/04/05",
+        "eventos": "Culto Páscoa",
+        "localizacao": "Charrua",
+        "hora": "9:30h",
+        "especial": "1º Dom de Páscoa"
+      },
+      {
+        "dia": "2026/04/06",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/07",
+        "eventos": "Estudo Bíblico Tapejara",
+        "localizacao": "Tapejara",
+        "hora": "19:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/08",
+        "eventos": "Servas Charrua",
+        "localizacao": "Charrua",
+        "hora": "14:00h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/09",
+        "eventos": "Instr.Online",
+        "localizacao": "NULL",
+        "hora": "19:00h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/10",
+        "eventos": "Instr.Charrua",
+        "localizacao": "Charrua",
+        "hora": "18:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/11",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/12",
+        "eventos": "ECEC – IELB - Ijuí RS",
+        "localizacao": "Ijuí RS",
+        "hora": "NULL",
+        "especial": "2º Dom. Páscoa"
+      },
+      {
+        "dia": "2026/04/13",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/14",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/15",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/16",
+        "eventos": "Instr.Tapejara",
+        "localizacao": "Tapejara",
+        "hora": "18:00h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/17",
+        "eventos": "Instr.Charrua",
+        "localizacao": "Charrua",
+        "hora": "18:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/18",
+        "eventos": "Culto; Culto",
+        "localizacao": "Rio do Peixe; Charrua",
+        "hora": "14:00h; 19:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/19",
+        "eventos": "Culto; Culto",
+        "localizacao": "Lig. Alto; Lª Betânia",
+        "hora": "9:30h; 14:30h",
+        "especial": "3º Dom. Páscoa"
+      },
+      {
+        "dia": "2026/04/20",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/21",
+        "eventos": "Tiradentes",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/22",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/23",
+        "eventos": "Instr.Online",
+        "localizacao": "NULL",
+        "hora": "19:00h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/24",
+        "eventos": "Instr.Charrua",
+        "localizacao": "Charrua",
+        "hora": "18:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/25",
+        "eventos": "Culto Tapejara",
+        "localizacao": "Tapejara",
+        "hora": "19:30h",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/26",
+        "eventos": "47º Congresso de Jovens DISRIU – Charrua",
+        "localizacao": "Charrua",
+        "hora": "NULL",
+        "especial": "4º Dom. Páscoa"
+      },
+      {
+        "dia": "2026/04/27",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/28",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/29",
+        "eventos": "NULL",
+        "localizacao": "NULL",
+        "hora": "NULL",
+        "especial": "NULL"
+      },
+      {
+        "dia": "2026/04/30",
+        "eventos": "Instr.Tapejara",
+        "localizacao": "Tapejara",
+        "hora": "18:00h",
+        "especial": "NULL"
+      }
+    ]
+  }
+}
